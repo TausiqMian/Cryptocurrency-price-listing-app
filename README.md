@@ -7,7 +7,7 @@ This is an open source project from [DevProjects](http://www.codementor.io/proje
 Find the project requirements here: [{project_name}](url)
 
 ## Tech/framework used
-Built with ___
+Built with Xcode and swift
 
 ## Screenshots and demo
 Screenshots of your app and/or a link to your live demo
